@@ -1,8 +1,9 @@
 {
   "name": "Synora Labs",
   "short_name": "Synora",
-  "description": "Synora Labs — independent AI research. Home of the NOUS Intelligence Engine.",
+  "description": "An independent European deep-technology studio building a fundamentally different species of artificial intelligence.",
   "start_url": "/",
+  "scope": "/",
   "display": "browser",
   "background_color": "#0a0a0b",
   "theme_color": "#0a0a0b",
