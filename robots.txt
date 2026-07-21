@@ -1,7 +1,0 @@
-User-agent: *
-
-Allow: /
-
-Sitemap: https://synoralabs.eu/sitemap.xml
-
-Host: https://synoralabs.eu
